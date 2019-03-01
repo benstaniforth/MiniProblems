@@ -30,11 +30,3 @@ public class LeapingForJoy {
 
 
 }
-
-
-//    public static Integer promptForNumber () {
-//
-//        Scanner scanner = new Scanner(System.in);
-//        Integer numberInput = scanner.nextInt();
-//
-//        return numberInput;
