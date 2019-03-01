@@ -28,19 +28,6 @@ public class Main {
 
 
 
-
-
-//        public static class promptForName {
-//
-//            Scanner name = new Scanner(System.in);
-//            String personsName = name.nextLine();
-//
-//
-//        }
-
-
-
-
     }
 
 
