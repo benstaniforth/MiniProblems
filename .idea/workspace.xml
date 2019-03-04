@@ -4,7 +4,6 @@
     <list default="true" id="a47f877d-e688-449e-bb6f-9f980b2608a8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MiniProblems/benstaniforth/MiniProblems/PrimeTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MiniProblems/benstaniforth/MiniProblems/PrimeTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MiniProblems/benstaniforth/MiniProblems/RightBackAtYou.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/benstaniforth/MiniProblems/PrimeTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/benstaniforth/MiniProblems/PrimeTime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/benstaniforth/MiniProblems/RightBackAtYou.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/benstaniforth/MiniProblems/RightBackAtYou.java" afterDir="false" />
     </list>
@@ -29,7 +28,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/SummingUp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="147">
               <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
             </state>
           </provider>
@@ -50,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/PrimeTime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="173">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/RightBackAtYou.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            <state relative-caret-position="264">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,13 +88,13 @@
         <option value="$PROJECT_DIR$/src/benstaniforth/MiniProblems/SummingUp.java" />
         <option value="$PROJECT_DIR$/src/benstaniforth/MiniProblems/Main.java" />
         <option value="$PROJECT_DIR$/src/benstaniforth/MiniProblems/LeapingForJoy.java" />
-        <option value="$PROJECT_DIR$/src/benstaniforth/MiniProblems/RightBackAtYou.java" />
         <option value="$PROJECT_DIR$/src/benstaniforth/MiniProblems/PrimeTime.java" />
+        <option value="$PROJECT_DIR$/src/benstaniforth/MiniProblems/RightBackAtYou.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="19" />
+    <option name="x" value="18" />
     <option name="y" value="27" />
     <option name="width" value="1400" />
     <option name="height" value="780" />
@@ -135,7 +134,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551704020292" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551712422745" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -243,7 +242,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="19" y="27" width="1400" height="780" extended-state="0" />
+    <frame x="18" y="27" width="1400" height="780" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -255,11 +254,11 @@
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="2" visible="true" weight="0.32994187" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32994187" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32994187" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32994187" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3997093" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -284,7 +283,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/SummingUp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="147">
           <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
@@ -301,8 +300,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/PrimeTime.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="173">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -311,8 +310,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/RightBackAtYou.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        <state relative-caret-position="264">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

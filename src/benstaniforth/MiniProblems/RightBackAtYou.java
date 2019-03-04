@@ -1,6 +1,7 @@
 package benstaniforth.MiniProblems;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
@@ -14,31 +15,17 @@ public class RightBackAtYou {
         List<Integer> numbersChosen = new ArrayList<>();
 
         Scanner scanner = new Scanner(System.in);
-        Integer numbersInput = scanner.nextInt();
 
-        do {
-            numbersChosen.add(numbersInput);
-            scanner.nextInt();
-        } while (numbersInput != -1);
+        while (scanner.hasNextInt()){
+            int numbersEntered = scanner.nextInt();
+            numbersChosen.add(numbersEntered);
+            }
 
-//        while (true) {
-//            Integer numbersInput = scanner.nextInt();
-//            numbersChosen.add(numbersInput);
-//            if (numbersInput.equals("Done")){
-//                break;
-//            }
-
-
-
-
-
+        Collections.reverse(numbersChosen);
         System.out.println(numbersChosen);
-
 
     }
 
-
-
-
-
 }
+
+

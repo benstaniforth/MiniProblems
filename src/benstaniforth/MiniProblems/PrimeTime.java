@@ -12,11 +12,11 @@ public class PrimeTime {
         System.out.print("Enter a prime number > ");
 
         Scanner scanner = new Scanner(System.in);
-        int numberInput = scanner.nextInt();
+        int aNumberInput = scanner.nextInt();
 
         List<Integer> primeNumbersUpToInput = new ArrayList<>();
 
-        for (int i = 2; i <= numberInput; i++)
+        for (int i = 2; i <= aNumberInput; i++)
             if (checkIfPrime(i)){
                 primeNumbersUpToInput.add(i);
             }
