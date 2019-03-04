@@ -14,12 +14,23 @@ public class RightBackAtYou {
         List<Integer> numbersChosen = new ArrayList<>();
 
         Scanner scanner = new Scanner(System.in);
-        Integer userInput = scanner.nextInt();
+        Integer numbersInput = scanner.nextInt();
 
         do {
-            numbersChosen.add(userInput);
+            numbersChosen.add(numbersInput);
             scanner.nextInt();
-        } while (userInput != -1);
+        } while (numbersInput != -1);
+
+//        while (true) {
+//            Integer numbersInput = scanner.nextInt();
+//            numbersChosen.add(numbersInput);
+//            if (numbersInput.equals("Done")){
+//                break;
+//            }
+
+
+
+
 
         System.out.println(numbersChosen);
 

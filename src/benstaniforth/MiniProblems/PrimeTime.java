@@ -25,7 +25,7 @@ public class PrimeTime {
 
     }
 
-    private static boolean checkIfPrime(Integer numberInput) {
+    private static boolean checkIfPrime (Integer numberInput) {
 
         for (int i = 2; i < numberInput; i++){
             if (numberInput % i == 0) {
