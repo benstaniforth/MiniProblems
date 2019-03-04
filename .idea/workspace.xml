@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a47f877d-e688-449e-bb6f-9f980b2608a8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MiniProblems/benstaniforth/MiniProblems/PrimeTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MiniProblems/benstaniforth/MiniProblems/PrimeTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/benstaniforth/MiniProblems/PrimeTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/benstaniforth/MiniProblems/PrimeTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/benstaniforth/MiniProblems/RightBackAtYou.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/benstaniforth/MiniProblems/RightBackAtYou.java" afterDir="false" />
-    </list>
+    <list default="true" id="a47f877d-e688-449e-bb6f-9f980b2608a8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +44,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/PrimeTime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
+            <state relative-caret-position="297">
               <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -58,11 +53,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/RightBackAtYou.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="323">
+              <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/SeeingDouble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,9 +94,10 @@
       <list>
         <option value="$PROJECT_DIR$/src/benstaniforth/MiniProblems/SummingUp.java" />
         <option value="$PROJECT_DIR$/src/benstaniforth/MiniProblems/Main.java" />
-        <option value="$PROJECT_DIR$/src/benstaniforth/MiniProblems/LeapingForJoy.java" />
         <option value="$PROJECT_DIR$/src/benstaniforth/MiniProblems/PrimeTime.java" />
         <option value="$PROJECT_DIR$/src/benstaniforth/MiniProblems/RightBackAtYou.java" />
+        <option value="$PROJECT_DIR$/src/benstaniforth/MiniProblems/LeapingForJoy.java" />
+        <option value="$PROJECT_DIR$/src/benstaniforth/MiniProblems/SeeingDouble.java" />
       </list>
     </option>
   </component>
@@ -134,7 +142,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551712422745" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551716581401" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -148,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RightBackAtYou">
+  <component name="RunManager" selected="Application.SeeingDouble">
     <configuration name="LeapingForJoy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="benstaniforth.MiniProblems.LeapingForJoy" />
       <module name="MiniProblems" />
@@ -158,16 +166,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="benstaniforth.MiniProblems.Main" />
-      <module name="MiniProblems" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -198,6 +196,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SeeingDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="benstaniforth.MiniProblems.SeeingDouble" />
+      <module name="MiniProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="benstaniforth.MiniProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SummingUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="benstaniforth.MiniProblems.SummingUp" />
       <module name="MiniProblems" />
@@ -212,19 +223,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.SummingUp" />
       <item itemvalue="Application.LeapingForJoy" />
       <item itemvalue="Application.PrimeTime" />
       <item itemvalue="Application.RightBackAtYou" />
+      <item itemvalue="Application.SeeingDouble" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SeeingDouble" />
         <item itemvalue="Application.RightBackAtYou" />
         <item itemvalue="Application.PrimeTime" />
         <item itemvalue="Application.LeapingForJoy" />
         <item itemvalue="Application.SummingUp" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -288,6 +299,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/PrimeTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/RightBackAtYou.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/LeapingForJoy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -298,20 +329,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/PrimeTime.java">
+    <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/SeeingDouble.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/RightBackAtYou.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="305">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
