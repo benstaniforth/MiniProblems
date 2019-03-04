@@ -16,18 +16,12 @@ public class RightBackAtYou {
         Scanner scanner = new Scanner(System.in);
         Integer userInput = scanner.nextInt();
 
-        while (userInput != 0){
+        do {
             numbersChosen.add(userInput);
-            scanner.nextLine();
-        }
-            System.out.println(numbersChosen);
+            scanner.nextInt();
+        } while (userInput != -1);
 
-
-
-
-
-
-
+        System.out.println(numbersChosen);
 
 
     }
