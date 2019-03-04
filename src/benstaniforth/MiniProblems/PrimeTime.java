@@ -12,30 +12,25 @@ public class PrimeTime {
         Scanner scanner = new Scanner(System.in);
         int numberInput = scanner.nextInt();
 
-        boolean isItPrime = true;
-        for (int i = 2; i < numberInput; i++) {
-            if (numberInput % i == 0) {
-                isItPrime = false;
-            } else {
-                isItPrime = true;
-            }
+        int isItPrime = 1;
+
+        for (int i = 2; i < numberInput; i++){
+            if (numberInput % i == 0){
+            isItPrime++; }
+            else {
+                 }
         }
 
-        if (isItPrime = false) {
-                System.out.println("Sorry, this is not a prime number");
-        } else {
-                System.out.println("Yes, this is a prime number");
+        if (isItPrime == 1){
+            System.out.println("Yes, this is a prime");
+        }
+        else {
+            System.out.println("No, this is not a prime");
         }
 
-
-//        for (int i = 2; i < numberInput; i++){
-//            if (numberInput % i == 0){
-//            System.out.println("Sorry, this isn't a prime number");
-//        } else {
-//            System.out.println("Yes, this is a prime number");
-//        }
-//        }
-//
 
     }
+
+
+
 }
