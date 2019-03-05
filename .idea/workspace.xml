@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a47f877d-e688-449e-bb6f-9f980b2608a8" name="Default Changelist" comment="" />
+    <list default="true" id="a47f877d-e688-449e-bb6f-9f980b2608a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/benstaniforth/MiniProblems/YouveBeenFramed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/benstaniforth/MiniProblems/YouveBeenFramed.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,8 +91,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/YouveBeenFramed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="327">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -162,7 +167,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551777418900" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551780803841" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -176,22 +181,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HowManyRabbits">
+  <component name="RunManager" selected="Application.YouveBeenFramed">
     <configuration name="HowManyRabbits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="benstaniforth.MiniProblems.HowManyRabbits" />
-      <module name="MiniProblems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="benstaniforth.MiniProblems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeapingForJoy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="benstaniforth.MiniProblems.LeapingForJoy" />
       <module name="MiniProblems" />
       <extension name="coverage">
         <pattern>
@@ -242,20 +234,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="YouveBeenFramed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="benstaniforth.MiniProblems.YouveBeenFramed" />
+      <module name="MiniProblems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="benstaniforth.MiniProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.LeapingForJoy" />
       <item itemvalue="Application.PrimeTime" />
       <item itemvalue="Application.RightBackAtYou" />
       <item itemvalue="Application.SeeingDouble" />
       <item itemvalue="Application.HowManyRabbits" />
+      <item itemvalue="Application.YouveBeenFramed" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.YouveBeenFramed" />
         <item itemvalue="Application.HowManyRabbits" />
         <item itemvalue="Application.SeeingDouble" />
         <item itemvalue="Application.RightBackAtYou" />
         <item itemvalue="Application.PrimeTime" />
-        <item itemvalue="Application.LeapingForJoy" />
       </list>
     </recent_temporary>
   </component>
@@ -368,8 +373,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/benstaniforth/MiniProblems/YouveBeenFramed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        <state relative-caret-position="327">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
